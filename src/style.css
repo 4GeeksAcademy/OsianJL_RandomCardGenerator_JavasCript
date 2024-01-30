@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.card-bg {
+  background-color: white;
+}
+#cardSymbol {
+  font-size: 4rem;
+}
+#cardNumber {
+  font-size: 8rem;
+}
+.footerCard {
+  rotate: 180deg;
+}
